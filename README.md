@@ -16,7 +16,7 @@ If you publish a paper using our food dataset, we'd glad if you could refer to t
   year={2019}
 }
 
-You should also refer to the original UEC Food-256 paper:
+And the original UEC Food-256 paper:
 
 @InProceedings{kawano14c,
  author="Kawano, Y. and Yanai, K.",
