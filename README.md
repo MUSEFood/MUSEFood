@@ -9,7 +9,7 @@ Note that this dataset can be used only for non-commercial research purpose. If 
 
 If you publish a paper using our food dataset, we'd glad if you could refer to the following paper:
 
-@article{gao2019multi,
+@article{gao2019musefood,
   title={MUSEFood: Multi-sensor-based Food Volume Estimation on Smartphones},
   author={Gao, Junyi and Tan, Weihao and Ma, Liantao and Wang, Yasha and Tang, Wen},
   journal={arXiv preprint arXiv:1903.07437},
