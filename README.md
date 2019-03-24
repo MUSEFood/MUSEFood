@@ -10,6 +10,7 @@ The SUEC Food dataset contains 600 segmented food images annotated manually and 
 
 Note that this dataset can be used only for non-commercial research purpose. If you like to use it for any other purpose, please contact us.
 
+## Citation
 If you publish a paper using our food dataset, we'd glad if you could refer to the following paper:
 
 @article{gao2019musefood,
