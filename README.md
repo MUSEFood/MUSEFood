@@ -6,7 +6,7 @@ We use Faster-RCNN and Grabcut to generate segmentation labels to pre-train our 
 The MutitaskFCN folder includes three multi-task FCN models proposed in our paper (i.e. MFCN-A to MFCN-C).
 
 ## SUEC Food Dataset
-The SUEC Food dataset contains 600 segmented food images annotated manually and 31395 segmented food images annotated by Grabcut. All these images are from UEC Food-258 dataset. The SUEC Food dataset can be downloaded at https://drive.google.com/open?id=162GUja37w17aPKi19CXpmHcB38pwZXaf.
+The SUEC Food dataset contains 600 segmented food images annotated manually and 31395 segmented food images annotated by Grabcut. All these images are from UEC Food-256 dataset. The SUEC Food dataset can be downloaded at https://drive.google.com/open?id=162GUja37w17aPKi19CXpmHcB38pwZXaf.
 
 Note that this dataset can be used only for non-commercial research purpose. If you like to use it for any other purpose, please contact us.
 
